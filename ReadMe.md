@@ -15,3 +15,12 @@
 
     - [مباديء التصميم الصلبة] (https://dotnettutorials.net/course/solid-design-principles/)
 
+4. أطر تطبيقات سطح المكتب
+
+    - [WPF](https://docs.microsoft.com/en-us/windows/win32/fwp/windows-filtering-platform-start-page)
+    - [أشكال النوافذ] (https://docs.microsoft.com/en-us/dotnet/desktop/winforms/?view=netdesktop-5.0)
+
+5. تطوير التطبيقات / الألعاب
+
+    - [تطوير الأجهزة المحمولة عبر الأنظمة الأساسية في Visual Studio](https://docs.microsoft.com/en-us/visualstudio/cross-platform/cross-platform-mobile-development-in-visual-studio?view=vs- 2019)
+    - [xamarin](https://docs.microsoft.com/en-us/xamarin/?view=vs-2019)
