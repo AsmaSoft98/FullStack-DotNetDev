@@ -1,6 +1,9 @@
 1. مفاهيم أساسية  
    - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
-      - [C#]
+      - [C# Basics] (if/else,while,switch, etc.)
+      - [C# OOP Basics] (Objects, Classes, Properties, Fields, Constructors, Instances / new keyword, Method) (https://www.w3schools.com/cs/cs_oop.asp)
+      - [C# advanced topics] (Polymorphism, Encapsulation, Inheritance, Composition, Abstract classes)
+      - [C# advanced concepts] (Interfaces, Async/ Await, Lambda Expressions, Events / Delegates, Constructs, LINQ, Anonymous types)
    - [SQL Fundamentals](https://www.w3schools.com/sql/)
    - [HTML](https://www.w3schools.com/html/)
    - [CSS](https://www.w3schools.com/css/)
