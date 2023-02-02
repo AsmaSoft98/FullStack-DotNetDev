@@ -15,8 +15,7 @@
 
     - [مباديء التصميم الصلبة] (https://dotnettutorials.net/course/solid-design-principles/)
 
-4. 
-6. أطر تطبيقات الويب
+5. أطر تطبيقات الويب
 
     - [ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-5.0)
     - [ASP.NET MVC](https://docs.microsoft.com/en-us/aspnet/mvc/)
