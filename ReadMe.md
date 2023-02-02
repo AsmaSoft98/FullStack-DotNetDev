@@ -1,6 +1,6 @@
 ## مفاهيم أساسية
-   - [C#]
-   - [SQL Fundamentals]
+    - [C#]
+    - [SQL Fundamentals]
 
 
     - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
