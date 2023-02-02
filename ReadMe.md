@@ -1,4 +1,4 @@
-## مفاهيم أساسية
+1. مفاهيم أساسية  
    - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
    - [SQL Fundamentals](https://www.w3schools.com/sql/)
    - [HTML](https://www.w3schools.com/html/)
