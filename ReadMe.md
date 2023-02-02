@@ -1,4 +1,8 @@
 ## مفاهيم أساسية
+   - [C#]
+   - [SQL Fundamentals]
+
+
     - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
     - [SQL Fundamentals] (https://www.w3schools.com/sql/)
     - [HTML](https://www.w3schools.com/html/)
