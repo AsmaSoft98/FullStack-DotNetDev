@@ -15,22 +15,14 @@
 
     - [مباديء التصميم الصلبة] (https://dotnettutorials.net/course/solid-design-principles/)
 
-4. أطر تطبيقات سطح المكتب
-
-    - [WPF](https://docs.microsoft.com/en-us/windows/win32/fwp/windows-filtering-platform-start-page)
-    - [أشكال النوافذ] (https://docs.microsoft.com/en-us/dotnet/desktop/winforms/?view=netdesktop-5.0)
-
-5. تطوير التطبيقات / الألعاب
-
-    - [تطوير الأجهزة المحمولة عبر الأنظمة الأساسية في Visual Studio](https://docs.microsoft.com/en-us/visualstudio/cross-platform/cross-platform-mobile-development-in-visual-studio?view=vs- 2019)
-    - [xamarin](https://docs.microsoft.com/en-us/xamarin/?view=vs-2019)
+4. 
 6. أطر تطبيقات الويب
 
     - [ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-5.0)
     - [ASP.NET MVC](https://docs.microsoft.com/en-us/aspnet/mvc/)
     - [ASP.NET Web Forms] (https://docs.microsoft.com/en-us/aspnet/web-forms/)
 
-7. أطر جانب العميل
+7. أطر العميل
 
     - [خارطة طريق المطور React](https://github.com/saifaustcse/react-developer-roadmap)
     - [vue Developer Map Road](https://github.com/saifaustcse/vue-developer-roadmap)
@@ -66,13 +58,13 @@
 
 12. قواعد بيانات
 
-    1. علائقية
+    1. العلائقية
         - [SQL Server] (https://www.microsoft.com/sql-server/sql-server-2019)
         - [Oracle](https://www.oracle.com/database/technologies/oracle-database-software-downloads.html)
         - [MySQL] (https://www.mysql.com)
         - [PostgreSQL] (https://www.postgresql.org)
         - [MariaDB](https://mariadb.org)
-    2. قواعد البيانات السحابية
+    2. السحابية
         - [CosmosDB](https://docs.microsoft.com/azure/cosmos-db)
         - [DynamoDB](https://aws.amazon.com/dynamodb)
     3. NoSQL
@@ -120,9 +112,9 @@
         - [Loggly.com] (https://loggly.com)
         - [Elmah.io](http://elmah.io)
 
-16. تست واحد
+16. الإختبارات
 
-    1. إطار أعمال
+    1. أطر العمل
         - [xUnit](https://docs.microsoft.com/dotnet/core/testing/unit-testing-with-dotnet-test)
         - [NUnit] (https://docs.microsoft.com/dotnet/core/testing/unit-testing-with-nunit)
         - [MSTest](https://docs.microsoft.com/dotnet/core/testing/unit-testing-with-mstest)
