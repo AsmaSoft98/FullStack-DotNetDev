@@ -11,9 +11,7 @@
    - [.NET](https://docs.microsoft.com/en-us/documentation/)
    - [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0)
 
-2. مباديء OOP
-
-    - [OOP C# Fundamentals] (https://www.w3schools.com/cs/cs_oop.asp)
+  
 
 3. المباديء الصلبة
 
@@ -37,20 +35,9 @@
     - [ASP.NET Web API](https://docs.microsoft.com/en-us/aspnet/web-api/)
     - [ASP.NET WCF](https://docs.microsoft.com/en-us/dotnet/framework/wcf/getting-started-tutorial)
 
-9. اتصالات العميل والخادم
+   
 
-    1. راحة
-        - [OData](https://devblogs.microsoft.com/odata/experimenting-with-odata-in-asp-net-core-3-1)
-        - [Sieve](https://github.com/Biarity/Sieve)
-    2. [gRPC](https://docs.microsoft.com/en-us/aspnet/core/grpc)
-    3. GraphQL
-        - [HotChocolate](https://github.com/ChilliCream/hotchocolate)
-        - [GraphQL-dotnet](https://github.com/graphql-dotnet/graphql-dotnet)
 
-10. التواصل في الوقت الحقيقي
-
-- [SignalR] (https://docs.microsoft.com/aspnet/core/signalr)
-- [WebSockets] (https://docs.microsoft.com/en-us/aspnet/core/fundamentals/websockets)
 
 11. ORM
 
@@ -121,11 +108,11 @@
         - [xUnit](https://docs.microsoft.com/dotnet/core/testing/unit-testing-with-dotnet-test)
         - [NUnit] (https://docs.microsoft.com/dotnet/core/testing/unit-testing-with-nunit)
         - [MSTest](https://docs.microsoft.com/dotnet/core/testing/unit-testing-with-mstest)
-    2. تمسخر
+    2. 
         - [Moq](https://github.com/moq/moq4)
         - [NSubstitute](https://github.com/nsubstitute/NSubstitute)
         - [FakeItEasy](https://github.com/FakeItEasy/FakeItEasy)
-    3. مطالبة
+    3.طلب تأكيد
         - [FluentAssertion](https://github.com/fluentassertions/fluentassertions)
         - [باید] (https://github.com/shouldly/shouldly)
 
